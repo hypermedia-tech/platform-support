@@ -19,9 +19,3 @@ Welcome to our team's knowledge base for Kubernetes cluster operations. This gui
 - [Reference](./reference/)
     - [Common Commands](./reference/commands.md)
     - [Useful Tools](./reference/tools.md)
-
-## Recent Updates
-
-- Added finalizer removal guide (March 15, 2025)
-- Updated namespace cleanup procedures (March 10, 2025)
-- Added ArgoCD troubleshooting section (March 3, 2025)
