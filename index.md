@@ -2,6 +2,8 @@
 
 Welcome to our team's knowledge base for Kubernetes cluster operations. This guide contains procedures, commands, and troubleshooting steps for common cluster management tasks.
 
+If you need help with your GitOps or DevEx capabilities [please contact us](https://www.hypermedia.tech/company/contact).
+
 ## Quick Navigation
 
 - [Namespace Management](./namespace-management/)
