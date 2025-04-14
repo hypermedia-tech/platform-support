@@ -107,3 +107,6 @@ kubectl replace --raw "/api/v1/namespaces/<namespace-name>/finalize" -f ns.json
 ## See Also
 - [Namespace Cleanup Guide](../namespace-management/cleanup.md)
 - [Common kubectl Commands](../reference/commands.md)
+
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)
