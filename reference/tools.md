@@ -427,3 +427,6 @@ helm install cilium cilium/cilium --namespace kube-system
 - [Kubectl Commands](./commands.md)
 - [ArgoCD Operations](../argocd/index.md)
 - [Resource Management](../resource-management/index.md)
+
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

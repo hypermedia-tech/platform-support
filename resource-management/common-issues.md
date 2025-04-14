@@ -344,3 +344,5 @@ kubectl patch deployment <deployment-name> -n <namespace> --type=json -p='[{"op"
 - [Working with Finalizers](./finalizers.md)
 - [Namespace Cleanup](../namespace-management/cleanup.md)
 - [ArgoCD Troubleshooting](../argocd/troubleshooting.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

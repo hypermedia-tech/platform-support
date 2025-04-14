@@ -91,3 +91,5 @@ kubectl get all,applications,applicationsets,appprojects -n argocd -o yaml > arg
 - [Namespace Management](../namespace-management/index.md)
 - [Working with Finalizers](../resource-management/finalizers.md)
 - [Common Kubectl Commands](../reference/commands.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

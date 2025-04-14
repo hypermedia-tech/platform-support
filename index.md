@@ -19,3 +19,5 @@ Welcome to our team's knowledge base for Kubernetes cluster operations. This gui
 - [Reference](./reference/)
     - [Common Commands](./reference/commands.md)
     - [Useful Tools](./reference/tools.md)
+
+![hypermedia tech logo](assets/images/hypermediatech-default.webp)

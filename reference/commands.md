@@ -318,3 +318,5 @@ kubectl taint nodes <node-name> key=value:effect
 - [Kubernetes Tools](./tools.md)
 - [Resource Management](../resource-management/index.md)
 - [ArgoCD Operations](../argocd/index.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

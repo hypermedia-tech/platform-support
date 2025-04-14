@@ -98,3 +98,5 @@ kubectl get pods --sort-by=.metadata.creationTimestamp
 - [Namespace Management](../namespace-management/index.md)
 - [Resource Management](../resource-management/index.md)
 - [ArgoCD Operations](../argocd/index.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

@@ -214,3 +214,5 @@ kubectl logs -n kube-system -l k8s-app=kube-apiserver --tail=1000 | grep <namesp
 - [Namespace Cleanup Procedures](./cleanup.md)
 - [Resource Management](../resource-management/index.md)
 - [Working with Finalizers](../resource-management/finalizers.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

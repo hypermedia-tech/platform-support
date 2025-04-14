@@ -173,3 +173,5 @@ To avoid stuck namespaces in the future:
 - [Namespace Troubleshooting](./troubleshooting.md)
 - [Working with Finalizers](../resource-management/finalizers.md)
 - [ArgoCD Application Management](../argocd/application-management.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

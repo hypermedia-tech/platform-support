@@ -232,3 +232,5 @@ kubectl patch deployment argocd-application-controller -n argocd --type=json -p=
 - [ArgoCD Application Management](./application-management.md)
 - [Namespace Management](../namespace-management/index.md)
 - [Working with Finalizers](../resource-management/finalizers.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

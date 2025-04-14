@@ -97,3 +97,5 @@ Beyond kubectl, consider these tools for enhanced resource management:
 - [Namespace Management](../namespace-management/index.md)
 - [ArgoCD Application Management](../argocd/application-management.md)
 - [Common Kubectl Commands](../reference/commands.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)

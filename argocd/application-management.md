@@ -151,3 +151,5 @@ kubectl patch application <app-name> -n argocd --type=merge -p '{"spec":{"syncPo
 - [ArgoCD Troubleshooting](./troubleshooting.md)
 - [Working with Finalizers](../resource-management/finalizers.md)
 - [Namespace Management](../namespace-management/index.md)
+
+![hypermedia tech logo](../assets/images/hypermediatech-default.webp)
